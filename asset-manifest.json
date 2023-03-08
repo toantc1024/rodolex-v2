@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rodolex/static/css/main.bcfcbd8c.css",
+    "main.js": "/rodolex/static/js/main.40c752df.js",
+    "static/js/787.e93537d5.chunk.js": "/rodolex/static/js/787.e93537d5.chunk.js",
+    "index.html": "/rodolex/index.html",
+    "main.bcfcbd8c.css.map": "/rodolex/static/css/main.bcfcbd8c.css.map",
+    "main.40c752df.js.map": "/rodolex/static/js/main.40c752df.js.map",
+    "787.e93537d5.chunk.js.map": "/rodolex/static/js/787.e93537d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcfcbd8c.css",
+    "static/js/main.40c752df.js"
+  ]
+}
