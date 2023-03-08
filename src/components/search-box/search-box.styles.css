@@ -1,0 +1,36 @@
+.search-box {
+    /* -webkit-appearance: none; */
+    border: none;
+    outline: none;
+    line-height: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    padding: 10px;
+    z-index: 25000;
+    position: relative;
+    border: 2px solid rgb(255, 255, 255);
+    transition: all 1s linear;
+    font-family: 'Open Sans', sans-serif;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+
+.input-container{
+    transition: all .1s linear;
+    
+}
+
+.show-modal {
+    background-color: rgba(243, 243, 243, 0.055);
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 0;
+}
+
+.App {
+    margin-top: 50px;
+}
