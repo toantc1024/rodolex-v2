@@ -13,11 +13,11 @@ interface ISearchBoxProps {
 }
 
 const SearchBox = ({
+  placeholder,
+  className,
   showModal,
   hideModal,
   onSearchChange,
-  placeholder,
-  className,
 }: ISearchBoxProps) => {
   return (
     <Fragment>
